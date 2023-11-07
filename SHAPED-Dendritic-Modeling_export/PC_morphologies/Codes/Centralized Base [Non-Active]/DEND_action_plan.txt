@@ -1,0 +1,10 @@
+"""
+Current Plan for Code:
+- Create centralized function file and remove functions from other parts of the programs. 
+- Centralize each step of the generation and analysis process into a singular program 
+- Make a text list for importing all packages necessary. 
+- Make an GUI for starting and stopping different steps in conditinals/distributions/test morphologies/etc. generation 
+    - Use the gui to selectively look at given graphs
+"""
+
+
